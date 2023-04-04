@@ -1,0 +1,9 @@
+dist
+node_modules
+.output
+.nuxt
+/utils/svg-dict.ts
+package.json
+/be-ui/pop/popperjs.es.js
+nuxt.config.ts
+**/iconfont.js
